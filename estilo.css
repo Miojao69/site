@@ -1,0 +1,20 @@
+.rodape{
+   position: fixed;
+    bottom:0;
+    background-color: #D3EE98;
+    color: black;
+    padding: 5px 0;
+}
+.cor{
+    background-color: #A0D683;
+}
+
+.cor2{
+background-color: #96a772;
+}
+.maiscor{
+    background-color: #FEFF9F;
+}
+.cor3{
+background-color:  #D3EE98;
+}
